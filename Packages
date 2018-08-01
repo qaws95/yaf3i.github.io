@@ -1,7 +1,7 @@
-Package: com.yaf3i.bloard
-Version: 1.0
+Package: com.gnos.bloard
+Version: 0.1.2-1
 Architecture: iphoneos-arm
-Maintainer: YaF3i <YaF3i_@hotmail.com>
+Maintainer: GN-OS <YaF3i_@hotmail.com>
 Filename: /bloard.deb
 Size: 70118
 MD5sum: 7c0add2b1081d60eb4eda8b9c58006e1
@@ -9,5 +9,5 @@ SHA1: 953ff6c8b0cbe4a5ce54a7c5069aa8b4765f3791
 SHA256: 9c7493b3b1bc25798f01baaabaf2e29327b9161338e22b9f834d11890891db50
 Section: Tweaks
 Description: Test Tweak 
-Author: YaF3i <YaF3i_@hotmail.com>
+Author: GN-OS <YaF3i_@hotmail.com>
 Name: Bloard
