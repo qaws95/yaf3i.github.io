@@ -1,7 +1,7 @@
-const VERSION_CHECK_SUPPORTED = "Your iOS version is supported! &#x1f60a;";
-const VERSION_CHECK_NEEDS_UPGRADE = "Requires at least iOS %s &#x1f615;";
-const VERSION_CHECK_UNCONFIRMED = "Not yet tested on iOS %s &#x1f601;";
-const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s";
+const VERSION_CHECK_SUPPORTED = "اصدارك يدعم الاداه تستطيع التحميل &#x1f60a;";
+const VERSION_CHECK_NEEDS_UPGRADE = "يتطلب على الاقل اصدار %s &#x1f615;";
+const VERSION_CHECK_UNCONFIRMED = "لم يتم اختبارها على %s &#x1f601;";
+const VERSION_CHECK_UNSUPPORTED = "فقط متوافقه مع الاصدارات %s to %s";
 
 (function(document) {
 	"use strict";
